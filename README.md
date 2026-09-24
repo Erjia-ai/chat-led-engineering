@@ -1,5 +1,9 @@
 # Chat-Led Engineering
 
+<p align="center">
+  <img src="assets/chat-led-engineering-hero.webp" alt="Chat-Led Engineering — Chat to Work to Cadence workflow" width="100%">
+</p>
+
 **让对话走进模拟 IC 设计。**
 
 在 Chat 中理解问题，在 Work 中推进工程，让真实结果回到下一轮讨论。
