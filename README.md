@@ -1,4 +1,4 @@
-# Chat-Led Engineering
+# Chat-Led IC Engineering
 
 <p align="center">
   <img src="assets/chat-led-engineering-hero.png" alt="Chat-Led Engineering — Chat to Work to Cadence workflow" width="100%">
