@@ -1,4 +1,4 @@
-# Chat-Led IC Engineering
+# Chat-Led Analog IC Design
 
 <p align="center">
   <img src="assets/chat-led-engineering-hero.png" alt="Chat-Led Analog IC Design — Chat to Work to Cadence workflow" width="100%">
