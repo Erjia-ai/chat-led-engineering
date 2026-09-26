@@ -1,14 +1,14 @@
 # Chat-Led IC Engineering
 
 <p align="center">
-  <img src="assets/chat-led-engineering-hero.png" alt="Chat-Led Engineering — Chat to Work to Cadence workflow" width="100%">
+  <img src="assets/chat-led-engineering-hero.png" alt="Chat-Led Analog IC Design — Chat to Work to Cadence workflow" width="100%">
 </p>
 
 **让对话走进模拟 IC 设计。**
 
 在 Chat 中理解问题，在 Work 中推进工程，让真实结果回到下一轮讨论。
 
-Chat-Led Engineering 是一套面向模拟 IC 设计的人机协作方法。它把 Chat、Work、MCP 与 Cadence 连接起来，让电路设计不止发生在软件操作中，也发生在你与 AI 持续的讨论、判断和验证中。
+Chat-Led Analog IC Design 是一套面向模拟 IC 设计的人机协作方法。它把 Chat、Work、MCP 与 Cadence 连接起来，让电路设计不止发生在软件操作中，也发生在你与 AI 持续的讨论、判断和验证中。
 
 你可以带着一个还不完整的电路想法开始，也可以带着一个迟迟无法解释的问题继续。我们希望你得到的，不只是一份设计文件，而是一个能够推进项目、也帮助你理解项目的协作过程。
 
@@ -28,7 +28,7 @@ Chat-Led Engineering 是一套面向模拟 IC 设计的人机协作方法。它�
 
 > **如果对话能够帮助人形成更清楚的设计判断，执行端又能够把判断落实到专业工具中，能否把两者组织成一种连续的模拟 IC 设计方式？**
 
-Chat-Led Engineering 就从这里开始。
+Chat-Led Analog IC Design 就从这里开始。
 
 它不是为了证明 Chat 比 Work 更强，也不是为了让人退出设计过程。它希望把理解与执行连接起来，让人不必在“自己完成所有操作”和“只等待 AI 给出结果”之间二选一。
 
@@ -118,7 +118,7 @@ MCP 本身不规定 Chat 与 Work 如何分工，也不会自动提供工程记�
 
 ## 本项目的工作：把连接能力组织成设计体验
 
-OpenAI 提供平台与接入能力，Virtuoso Bridge 提供专业软件的操作基础。Chat-Led Engineering 的工作，是把这些能力放进模拟 IC 的真实项目中，整理为一种可以理解、实施和继续完善的协作方法。
+OpenAI 提供平台与接入能力，Virtuoso Bridge 提供专业软件的操作基础。Chat-Led Analog IC Design 的工作，是把这些能力放进模拟 IC 的真实项目中，整理为一种可以理解、实施和继续完善的协作方法。
 
 我们的设计重点，是让用户的意图成为工程任务，让执行结果成为下一轮判断的依据，并让一个项目能够跨越多次任务持续推进。这涉及讨论与执行的职责划分、任务边界、项目状态、结果复核，以及中断后的工作接续。
 
@@ -158,7 +158,7 @@ OpenAI 提供平台与接入能力，Virtuoso Bridge 提供专业软件的操作
 
 ### Arcadia-1：Virtuoso 执行基础
 
-[**Arcadia-1 / virtuoso-bridge-lite**][bridge] 是本项目使用的 Cadence 桥接上游。仓库列出的作者为 **Zhishuai Zhang、Xintian Li、Nan Sun、Lu Jie**。相关底层能力归属于上游项目，不作为 Chat-Led Engineering 独立实现的成果。[^bridge]
+[**Arcadia-1 / virtuoso-bridge-lite**][bridge] 是本项目使用的 Cadence 桥接上游。仓库列出的作者为 **Zhishuai Zhang、Xintian Li、Nan Sun、Lu Jie**。相关底层能力归属于上游项目，不作为 Chat-Led Analog IC Design 独立实现的成果。[^bridge]
 
 ### Model Context Protocol：协议参考
 
