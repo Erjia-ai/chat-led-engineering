@@ -1,8 +1,8 @@
-# Chat-Led Analog IC Design
-
 <p align="center">
-  <img src="assets/chat-led-engineering-hero.png" alt="Chat-Led Analog IC Design — Chat to Work to Cadence workflow" width="100%">
+  <img src="assets/chat-led-analog-ic-design-hero.jpg" alt="Chat-Led Analog IC Design" width="100%">
 </p>
+
+# Chat-Led Analog IC Design
 
 **让对话走进模拟 IC 设计。**
 
@@ -67,6 +67,11 @@ Chat-Led Analog IC Design 就从这里开始。
 这些记录用于帮助讨论端和执行端接续工作。保存上下文的目的，不是让用户维护更多文书，而是让下一轮对话能够从“我们已经知道什么”开始，而不是反复解释整个项目。
 
 ## 为什么采用这样的分工
+
+<p align="center">
+  <img src="assets/chat-led-engineering-hero.png" alt="Chat–Work–Cadence collaboration workflow" width="100%">
+</p>
+
 
 OpenAI Academy 的官方指南把 Chat 与 Work 描述为互补的工作方式：Chat 适合讨论想法和聚焦的问题，Work 适合收集上下文、完成多个步骤并交付可审阅的成果。[^chat-work]
 
